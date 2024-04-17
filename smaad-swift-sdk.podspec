@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "smaad-swift-sdk"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "A short description of smaad-swift-sdk"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "git@github.com:gmo-tech/smaad-swift-sdk.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "git@github.com:gmoconnect/smaad-swift-sdk.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
